@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\nhom 13",
-    "\\nhom 13\\Controllers"
+    "\\MyWebApi",
+    "\\MyWebApi\\wwwroot\\uploads"
   ],
-  "SelectedNode": "\\nhom 13\\Controllers\\ArticlesController.cs",
+  "SelectedNode": "\\MyWebApi",
   "PreviewInSolutionExplorer": false
 }
