@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using nhom_13.data;
-using nhom_13.Models;
+using MyWebApi.data;
+using MyWebApi.Models;
 
-namespace nhom_13.Controllers
+namespace MyWebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

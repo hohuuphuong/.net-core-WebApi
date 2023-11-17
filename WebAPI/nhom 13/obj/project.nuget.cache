@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fhI9ZoBhy+9dTlFHfTwBovOe8yZCetQZ4hH2vnchENOcqzVqaEE+vmQWJPVHb22XXcQP1CxdwyBuXu34RIn+dA==",
+  "dgSpecHash": "Sb2eStQQMfwsMZEH1uVdpSSkxgqhRyzQM3PYq1+Pdp0z4G2S15hxA2dctrAvd+uGd2spVc7pPoPjXW3rt9WyEg==",
   "success": true,
-  "projectFilePath": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\nhom 13.csproj",
+  "projectFilePath": "D:\\.net-core-WebApi\\WebAPI\\nhom 13\\MyWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hohuu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\hohuu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

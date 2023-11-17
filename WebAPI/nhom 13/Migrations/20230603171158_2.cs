@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace nhom_13.Migrations
+namespace MyWebApi.Migrations
 {
     /// <inheritdoc />
     public partial class _2 : Migration

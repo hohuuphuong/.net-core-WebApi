@@ -1,6 +1,6 @@
-﻿using nhom_13.data;
+﻿using MyWebApi.data;
 
-namespace nhom_13.Models
+namespace MyWebApi.Models
 {
     public class ImageModel
     {

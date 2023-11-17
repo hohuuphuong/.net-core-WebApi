@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace nhom_13.Migrations
+namespace MyWebApi.Migrations
 {
     /// <inheritdoc />
     public partial class _3 : Migration

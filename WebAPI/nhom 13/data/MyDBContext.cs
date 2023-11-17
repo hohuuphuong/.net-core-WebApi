@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace nhom_13.data
+namespace MyWebApi.data
 {
     public class MyDBContext : DbContext
     {

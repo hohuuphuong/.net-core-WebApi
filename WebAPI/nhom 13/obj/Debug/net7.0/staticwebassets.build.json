@@ -1,27 +1,27 @@
 {
   "Version": 1,
-  "Hash": "x81Xeft/S8eao5M29CBlr/uxCv1Yu24y2Ec30aRkq0Y=",
-  "Source": "nhom 13",
-  "BasePath": "_content/nhom 13",
+  "Hash": "t8OsxVCVBLFwAwkJh1qEgYJf7Q8hcXK0lrbTp7Sl0kU=",
+  "Source": "MyWebApi",
+  "BasePath": "_content/MyWebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "nhom 13\\wwwroot",
-      "Source": "nhom 13",
-      "ContentRoot": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\",
-      "BasePath": "_content/nhom 13",
+      "Name": "MyWebApi\\wwwroot",
+      "Source": "MyWebApi",
+      "ContentRoot": "D:\\.net-core-WebApi\\WebAPI\\nhom 13\\wwwroot\\",
+      "BasePath": "_content/MyWebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\uploads\\asddasfasf.jpg",
-      "SourceId": "nhom 13",
+      "Identity": "D:\\.net-core-WebApi\\WebAPI\\nhom 13\\wwwroot\\uploads\\asddasfasf.jpg",
+      "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\",
-      "BasePath": "_content/nhom 13",
+      "ContentRoot": "D:\\.net-core-WebApi\\WebAPI\\nhom 13\\wwwroot\\",
+      "BasePath": "_content/MyWebApi",
       "RelativePath": "uploads/asddasfasf.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -34,11 +34,11 @@
       "OriginalItemSpec": "wwwroot\\uploads\\asddasfasf.jpg"
     },
     {
-      "Identity": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\uploads\\Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg",
-      "SourceId": "nhom 13",
+      "Identity": "D:\\.net-core-WebApi\\WebAPI\\nhom 13\\wwwroot\\uploads\\Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg",
+      "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\",
-      "BasePath": "_content/nhom 13",
+      "ContentRoot": "D:\\.net-core-WebApi\\WebAPI\\nhom 13\\wwwroot\\",
+      "BasePath": "_content/MyWebApi",
       "RelativePath": "uploads/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -51,11 +51,11 @@
       "OriginalItemSpec": "wwwroot\\uploads\\Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg"
     },
     {
-      "Identity": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\uploads\\images.jpg",
-      "SourceId": "nhom 13",
+      "Identity": "D:\\.net-core-WebApi\\WebAPI\\nhom 13\\wwwroot\\uploads\\images.jpg",
+      "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\",
-      "BasePath": "_content/nhom 13",
+      "ContentRoot": "D:\\.net-core-WebApi\\WebAPI\\nhom 13\\wwwroot\\",
+      "BasePath": "_content/MyWebApi",
       "RelativePath": "uploads/images.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\images.jpg"
+    },
+    {
+      "Identity": "D:\\.net-core-WebApi\\WebAPI\\nhom 13\\wwwroot\\uploads\\priority.png",
+      "SourceId": "MyWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net-core-WebApi\\WebAPI\\nhom 13\\wwwroot\\",
+      "BasePath": "_content/MyWebApi",
+      "RelativePath": "uploads/priority.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\priority.png"
     }
   ]
 }

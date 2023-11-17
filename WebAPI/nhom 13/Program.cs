@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
-using nhom_13.data;
-using nhom_13.Repository;
+using MyWebApi.data;
+using MyWebApi.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.

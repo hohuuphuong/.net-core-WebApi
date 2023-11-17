@@ -1,6 +1,6 @@
-﻿using nhom_13.Models;
+﻿using MyWebApi.Models;
 
-namespace nhom_13.Repository
+namespace MyWebApi.Repository
 {
     public interface IImageRepository
     {

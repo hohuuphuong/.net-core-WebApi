@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using nhom_13.data;
+using MyWebApi.data;
 
 #nullable disable
 
-namespace nhom_13.Migrations
+namespace MyWebApi.Migrations
 {
     [DbContext(typeof(MyDBContext))]
     partial class MyDBContextModelSnapshot : ModelSnapshot

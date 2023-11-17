@@ -1,7 +1,7 @@
-﻿using nhom_13.data;
-using nhom_13.Models;
+﻿using MyWebApi.data;
+using MyWebApi.Models;
 
-namespace nhom_13.Repository
+namespace MyWebApi.Repository
 {
     public class ImageRepository : IImageRepository
     {
